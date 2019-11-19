@@ -35,4 +35,4 @@ client.on('ready', () =>{
 	//console.log("Available Servers: " + list);
 })
 
-client.login("NjMxOTY5MzA1NTQ1OTMyODMx.XZ-nQA.IYyPJIYdpOfPJwcb-3NjJLURwEs");
+client.login("SEU TOKEN");
