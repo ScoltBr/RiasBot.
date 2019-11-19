@@ -12,5 +12,5 @@ Configure o prefix e o seu Token
 npm install [Nome-da-api] --save (Para implementar outras api's)
 ```
 
-## Faceboke
-[FB](https://www.facebook.com/ScoltBr)
+## Facebook
+[Facebook](https://www.facebook.com/ScoltBr)
