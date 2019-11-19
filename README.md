@@ -12,8 +12,5 @@ Configure o prefix e o seu Token
 npm install [Nome-da-api] --save (Para implementar outras api's)
 ```
 
-## Contribuições
-Eu utilizei de estudos online e da api
-
 ## Faceboke
 [FB](https://www.facebook.com/ScoltBr)
